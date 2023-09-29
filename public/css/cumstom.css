@@ -149,7 +149,7 @@ h3{
      transition: opacity 6s linear 2s; 
 }
 .boton{
-    margin-top: 11rem;
+    margin-top: 16%;
     margin-left: 45%;
     background-color:#281E33;
     border: none;
@@ -164,26 +164,8 @@ h3{
 
 }
 .boton:hover{
-    background: #281E33;
+    background: rgb(47, 5, 82);
  
     transition-duration: 1s;
   
-}
-
-.boton{
-  font-size:20pt;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-
-}
-.boton{
-    display: flex;
-    justify-content: center;
-    position: relative;
-}
-.boton:hover{
-    background: #281E33;
- 
-    transition-duration: 1s;
-  
-}
 }
